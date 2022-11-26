@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(
-    name = "harajofil.py",
+    name = "likokavana.py",
     version = "0.1",
-    py_modules = ['harajofil'],
-    url = "https://github.com/harajofil/harajofil.git",
-    author = "harajofil",
+    py_modules = ['likokavana'],
+    url = "https://github.com/likokavana/likokavana.git",
+    author = "likokavana",
     install_requires = ["pyngrok"]
 )
